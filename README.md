@@ -16,9 +16,10 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-
+  
 ![hjle29's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hjle29&show_icons=true&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihyeon29)](https://solved.ac/hihyeon29/)
+
 </div> 
 
 <!---
