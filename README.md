@@ -19,8 +19,8 @@
 
 
 # 📊 My GitHub Stats
-![hjle29's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hjle29&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hjle29&layout=compact&theme=radical)
+![hjle29's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hjle29&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hjle29&layout=compact&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihyeon29)](https://solved.ac/hihyeon29/)
 </div> 
 
