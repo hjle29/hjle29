@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  
 
-![hjle29's github stats](https://github-readme-stats.vercel.app/api?username=hjle29&show_icons=true)
+
+# 📊 My GitHub Stats
+![hjle29's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hjle29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hjle29&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihyeon29)](https://solved.ac/hihyeon29/)
 </div> 
 
