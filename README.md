@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=NO-IDEA&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=HJLE&fontSize=70)
 
 <div align="center" >
 <p>
@@ -26,6 +26,7 @@
 hjle29/hjle29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=50&duration=2000&pause=1000&color=F7C07B&background=706FA900&center=true&vCenter=true&width=435&height=60&lines=I+have+no+idea)](https://git.io/typing-svg)
 
 👋 Hi, there. I’m @hjle29
 <p>
