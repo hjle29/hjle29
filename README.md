@@ -42,9 +42,3 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about: Java, Spring Boot, Microservices, Performance Optimization
 
 📫 Reach me: 02q09q@gmail.com
-
----
-
-🐈‍⬛ This is also my GitHun
-
-[hjle2](https://www.github.com/hjle2)
